@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "259482697983",
+    "firebase_url": "https://pitayapop-18d3e.firebaseio.com",
+    "project_id": "pitayapop-18d3e",
+    "storage_bucket": "pitayapop-18d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259482697983:android:791c895873975a15",
+        "android_client_info": {
+          "package_name": "com.pitaya.pitayapop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259482697983-670i2k7rqhthf4hbn0e6i0ks54f3pthc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pitaya.pitayapop",
+            "certificate_hash": "3c96d3f5495c6a97601c868dc08d90f6df1e2fb8"
+          }
+        },
+        {
+          "client_id": "259482697983-j5udsjc34i092ijhsem6o06d07m217ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJzw0OwulQ9KUQsbd7mXOJ0-Um30GA2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259482697983-j5udsjc34i092ijhsem6o06d07m217ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
